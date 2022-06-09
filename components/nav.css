@@ -9,7 +9,7 @@
     box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.041);
 	background-color:rgba(255, 255, 255, 0);
 	overflow-x: hidden;
-	z-index : 100;
+	z-index: 100;
 }
 
 #nav i{
